@@ -1,4 +1,4 @@
-# MacroTracker 
+# Macrotracker 
 
 This repo contains preview photos of the Macrotracker app, which is currently in closed beta. The app aims to be a simple and easy to use macro counting app with no frills or unnecessary features. Additionally, it aims to provide users with helpful statistics that no other apps currently provide in order to help the user meet their macro related goals.
 
